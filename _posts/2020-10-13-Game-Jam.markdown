@@ -1,0 +1,35 @@
+---
+layout: blogpost
+title:  "September Game Jam"
+subtitle: "Making assets in a tight time frame."
+date:   2020-10-15 1:00:07 -0400
+categories: Game Jam
+description: "My involvement in the 2020 GDEX Game Jam"
+image: /images/blog-post-3.jpg
+---
+<h4>September Game Jam.</h4>
+Last month I had the pleasure of helping a friend with their entry for the <a href="https://itch.io/jam/gdex-2020">GDEX Game Jam 2020</a> and it was a blast! 
+<br>
+<br>
+For those not familiar, game jams are (typically) a month long challenge to create a game about a theme that is chosen on the first day of the jam. You can work solo or on a team (depending on the jams rules) and can use whatever medium you're comfortable with to create your game (again, rules depending.)
+<br>
+<br>
+This years theme was "community." Michael, my friend and the person who did all the heavy work/coding on this project, came up with the idea of a town management game (tittled; City Planner). The base premise is that you are the mayor of a town and must build houses and buildings to make it successful. As the levels progress you eventually need to build mandatory buildings (some of which have negative effects) or else you lose the game. Each building also has some additional mechanics that allow it to make more money or give bonuses based on other buildings around it. 
+<br>
+<br>
+Michael asked for my help with art assets roughly halfway into the jam. By this point he had the base mechanics of the game up and running and just needed some illustrations to make it stand out. Excited to join in on the challenge I jumped over to one of my favorite sites for starting up inspiration, <a href="https://schemecolor.com">Scheme Color</a>, and started looking for a fun color scheme to get started.
+<br>
+<br>
+<img src="/images/blog/colors.PNG" alt="Several color palettes from schemecolor." style="display: block;margin-left: auto;margin-right: auto;width: 70%;border-radius: 8px;">
+<figcaption style="text-align: center">Just think of all the interesting things you could make with these colors!</figcaption>
+<br>
+Armed with a nice color palette I jumped over to illustrator to draft up some basic style designs. There was a nice spread of buildings that needed put together so I quickly expanded upon my original palette with illustrators color guide. After bouncing some styles back and forth we found one we agreed on and then it was just flushing everything out and getting it exported for the game. Since the game was set up in a grid system it was as easy as setting up a similar grid with the same ratio in my workspace and exporting them individually as transparent PNGs at the proper resolution. Within the 2 week timeline I was able to put together 39 unique assets in my freetime to help bring "City Planner" to life.
+<br>
+<br>
+<img src="/images/blog/buildings.png" alt="Several buildings made for the game City Planner." style="display: block;margin-left: auto;margin-right: auto;width: 70%;border-radius: 8px;">
+<figcaption style="text-align: center">Welcome to the town!</figcaption>
+<br>
+When the jam came to a close we were very happy to hear we placed 2nd among the 23 entries. The scoring was a nice motivation for me to reach a little higher with the next opportunity (maybe add animation? Perhaps help with user interface?). Overall I was very happy to have been part of this and look forward to working on more projects like this in the future!
+<br>
+<br>
+<a href="https://mvanbaalen.itch.io/city">Play City Planner here.</a>
