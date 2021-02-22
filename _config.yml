@@ -30,6 +30,11 @@ github_username:  coyancm
 permalink: pretty
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
