@@ -15,7 +15,7 @@ Hidden among the chaos of this year were pockets of positivity and growth. The E
 In the earlier parts of the year my focus turned more on getting caught up on media I had been procrastinating on seeing. For the month of April it was a mix of movies, video games with friends (<a href="https://www.jackboxgames.com/">Jackbox games</a> really helped with morale and keeping in touch with friends) and jigsaw puzzles. When things began slowly opening back up I rediscovered my love for parks and walks through nature. Kate and I began trying to visit as many parks as we could during our free time. 
 <br>
 <br>
-<div class="row" style="display: grid;grid-gap: 30px;
+<div class="row" style="display: grid;grid-gap: 10px;
 grid-template-columns: repeat(auto-fill,minmax(220px,1fr));">
 	<div class="column" style="box-sizing: border-box;">
 		<figure>

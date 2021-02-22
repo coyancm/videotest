@@ -14,7 +14,7 @@ I've never had much of a green thumb (not for lack of effort, more for lack of t
 Now, I don't want to get into the whole life story of what was done with the gardening portion (mostly because it would quickly take over this post with everything that was done.) So I'll boil down the experience to a little tl;dr. I have little room to work with for a garden, the weather fluctuated a lot this year, I lucked out with the soil I used and my plant exploded with peppers when I migrated it inside. Basically, there were a couple challenges I didn't see coming, but in the end it was fun, educational and successful. Now onto our main topic.
 <br>
 <br>
-<div class="row" style="display: grid;grid-gap: 30px;
+<div class="row" style="display: grid;grid-gap: 10px;
 grid-template-columns: repeat(auto-fill,minmax(220px,1fr));">
 	<div class="column" style="box-sizing: border-box;">
 		<figure>

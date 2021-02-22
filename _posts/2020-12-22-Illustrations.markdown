@@ -13,7 +13,7 @@ Late November and early December has been super busy for me. Lots of projects at
 My major focus as of late is creation new illustrations in illustrator. I stumbled upon an old sketchbook of mine from college and was excited to breath new life into my old artwork. Most of the images I chose were small doodles but they were just the right size for a collection of quick creations. 
 <br>
 <br>
-<div class="row" style="display: grid;grid-gap: 30px;
+<div class="row" style="display: grid;grid-gap: 10px;
 grid-template-columns: repeat(auto-fill,minmax(220px,1fr));">
 	<div class="column" style="box-sizing: border-box;">
 		<figure>

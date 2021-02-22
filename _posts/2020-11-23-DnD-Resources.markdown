@@ -5,7 +5,7 @@ subtitle: "Some fun webpages for Dungeons and Dragons"
 date:   2020-11-23 7:00:07 -0400
 categories: Dungeons and Dragons
 description: "Resources for Dungeons and Dragons from around the web."
-image: /images/blog-post-3.jpg
+image: /images/blog/dice.jpg
 ---
 Dungeons and Dragons has been a fun hobby of mine for a while now (almost 5 years as of writing this.) I started with a passive interest as a good friend of mine has been working on making his own system on and off for the past 7 years, which got me to understand some of the base concepts. It definitely took some time for me to shrug off some of the negative connotations portrayed by media (it being geeky and lame) but once I jumped in I immediately fell in love with the concept.
 
@@ -40,5 +40,3 @@ Did your players venture into a town you weren't expecting? Get a map made in on
 
 Price: Free
 
-<script type="text/javascript" src="/assets/js/lightbox.js"></script>
-<link rel="stylesheet" href="/assets/css/lightbox.css">

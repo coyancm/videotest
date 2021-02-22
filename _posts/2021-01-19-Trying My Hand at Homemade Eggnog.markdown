@@ -3,7 +3,7 @@ layout: blogpost
 title:  "Trying My Hand at Homemade Eggnog"
 subtitle: "Learning a new skill with some extra free time."
 date:   2021-01-19 7:00:07 -0400
-categories: Free Time, Eggnog, Learning 
+categories: Free-time Eggnog Learning 
 description: "Learning how to make homemade eggnog."
 image: /images/blog/egg.jpg
 ---
