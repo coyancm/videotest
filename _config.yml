@@ -23,7 +23,7 @@ email: coyancm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal portfolio for photographer, designer, web analyst and digital marketer; Cameron Coyan.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "site.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cameroncoyan.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  coyancm
 
 # Build settings
