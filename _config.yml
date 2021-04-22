@@ -27,10 +27,17 @@ url: "https://cameroncoyan.com" # the base hostname & protocol for your site, e.
 github_username:  coyancm
 
 # Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/_posts/page:num/"
+
+
 permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
+
 
 whitelist:
   - jekyll-sitemap

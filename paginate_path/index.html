@@ -1,29 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: page
+title: Posts
+---
 
-<html>
-	<head>
-		{% include bloghead.html %}
-		{% include nav.html %}
-	</head>
-	<body>
-		
-		{{ content }}	
-
-
-<div style="max-width: 1200px;padding-top: 0px;padding-right: 16px;padding-bottom: 0px;padding-left: 16px;margin-top: 10px;margin-right: auto;margin-bottom: 0px;margin-left: auto;"> 
-  {%- if site.posts.size > 0 -%}
-
-
-    	<div style="display: grid;
-grid-gap: 30px;
-grid-template-columns: repeat(auto-fill,minmax(300px,1fr));">
-
-      {%- for post in site.posts -%}
+{%- for post in paginator.posts -%}
 
       <li style="list-style-type: none;">
       <a href="{{ post.url | relative_url }}">
-          	<img src="{{- post.image | relative_url -}}" alt="blog post image" style="width: 100%;">
+            <img src="{{- post.image | relative_url -}}" alt="blog post image" style="width: 100%;">
           </a>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -67,14 +51,11 @@ grid-template-columns: repeat(auto-fill,minmax(300px,1fr));">
     <span>Next &raquo;</span>
   {% endif %}
 </div>
-{% endif %}
+
 
 <div style="max-width: 1200px;padding-top: 0px;padding-right: 16px;padding-bottom: 0px;padding-left: 16px;margin-top: 10px;margin-right: auto;margin-bottom: 0px;margin-left: auto;"> 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 </div>
-		{% include scripts.html %}
-		{% include footer.html %}
 
-	</body>
-</html>
+
