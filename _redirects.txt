@@ -1,0 +1,5 @@
+<meta name="robots" content="noindex" /> 
+<meta name="AdsBot-Google" content="noindex" />
+
+# Redirects from what the browser requests to what we serve
+/home              /

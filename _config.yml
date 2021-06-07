@@ -31,6 +31,8 @@ markdown:           kramdown
 paginate:           5
 paginate_path:      "/_posts/page:num/"
 
+include: [_redirects.txt]
+
 
 permalink: pretty
 plugins:
