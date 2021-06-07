@@ -41,6 +41,11 @@ plugins:
   - jekyll-paginate
 
 
+netlify:
+  redirects:
+    - /home              /
+
+
 whitelist:
   - jekyll-sitemap
 

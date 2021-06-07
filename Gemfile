@@ -17,6 +17,7 @@ gem "minima", "~> 2.5"
 gem 'jekyll-sitemap'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-netlify-redirects'
 gem "jekyll-paginate"
 end
 
