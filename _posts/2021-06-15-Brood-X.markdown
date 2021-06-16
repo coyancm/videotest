@@ -1,0 +1,67 @@
+---
+layout: blogpost
+title:  "Brood X"
+subtitle: "Observing the 2021 cicada swarm."
+date:   2021-06-15 7:00:07 -0400
+categories: Brood X Cicadas 
+description: "Tkaing photos and recording the sounds of cicadas."
+image: /images/blog/bugthumb.jpg
+---
+
+Summer is almost upon us with warm days and dreams of vacation. Already, we've been fortunate enough to have a plethora of pleasant days, perfect for grilling or lounging by the pool or beach side, with many more to look forward to. This year, however, brings a new and exciting element to these warm Ohio days in the form of Brood X.
+
+<a href="https://en.wikipedia.org/wiki/Brood_X">Brood X</a> is one of the massive swarms of cicadas in the northeast portions of the US that appears roughly every 17 years. These bugs are big, loud and everywhere. Locally, I first started seeing their appearance around May 26th with a handful of nymphs emerging from the base of nearby trees to shed their skin and become adults. Their calls started off soft and occasional, but have quickly become a constant addition to the normal background noise of the area. Now, 3 weeks in, they’ve only gotten louder and bigger in numbers.
+
+
+<blockquote>
+Fun cicada facts brought to you by <a href="https://www.smithsonianmag.com/science-nature/14-fun-facts-about-cicadas-180977361/">Smithsonian Magazine</a>:
+<ul>
+	<li>They live for about 4 to 6 weeks above ground depending on the climate</li>
+	<li>They’re edible (watch out if you have a shellfish allergy)</li>
+	<li>They’re one of the longest living insects</li>
+	<li>Their call can rival a lawnmower</li>
+</ul>
+</blockquote>
+
+
+Lately I’ve been appreciating Brood X more and more as I explore the parks in the area. Their vibrant colors and almost glowing red eyes make them very interesting to look at and find. As far as bugs go, they're surprisingly docile, preferring to stay near their trees and suck the xylem from the branches rather than fly erratically and both people. They’re also fascinating to listen to as the variety of sounds that they produce, both individually and collectively, really add to the wooded areas.
+<br>
+<br>
+<div class="row" style="display: grid;grid-gap: 10px;
+grid-template-columns: repeat(auto-fill,minmax(220px,1fr));">
+	<div class="column" style="box-sizing: border-box;">
+		<figure>
+			<a href="/images/blog/bug1.jpg"><img src="/images/blog/bug1.jpg" alt="A close up image of brood x cicada." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
+		</figure>
+	</div>
+	<div class="column" style="box-sizing: border-box;display: grid;">
+		<figure>
+			<a href="/images/blog/bug2.jpg"><img src="/images/blog/bug2.jpg" alt="A close up image of a brood x cicada shell on a black background." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
+		</figure>
+	</div>
+	<div class="column" style="box-sizing: border-box;">
+		<figure>
+			<a href="/images/blog/bug3.jpg"><img src="/images/blog/bug3.jpg" alt="Close up of a brood x cicada." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
+		</figure>
+	</div>
+</div>
+
+<figcaption style="text-align: center">Snagging close up photos of these cicadas has been a delight as the complexity of their chitin is captivating up close.
+</figcaption>
+
+To explore a bit more of how these guys sound I set up an H1n Zoom mic on a mono-pod and took it out with me for a walk to the most active park near me. To say that the cicadas at the park I went to were loud would be a bit of an understatement. As soon as I opened the car door I was met with a constant rushing noise similar to that of putting your ear to a seashell. It was also interesting to note that everytime I walked under a tree covered in cicadas they would make a wave-like sound of buzzing to alert others in the tree of my approach. Overall, the walk was very pleasant and I was able to get a lot of really good audio with my mic. 
+
+If you’re in the area I would highly recommend checking out some of the parks to experience it yourself. Although I would recommend bringing earplugs as the sound can get disorienting and leave your ears ringing if you listen for too long.
+
+If you’re unable to check these cicadas out before they disappear again for 17 years, I’ve put together the audio with some photos I’ve gotten of some local cicadas. The audio is lowered a bit so that the rushing background noise isn’t too overwhelming (but can be heard if you turn up your volume). Feel free to check it out below!
+
+<div style="text-align: center;">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/KJRSBKiX6ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<figcaption style="text-align: center">Around 7:45 you can hear some of the individual noises they make as I put the mic next to one of the covered trees.
+</figcaption>
+
+I’d say Brood X has been a very interesting experience and I will miss their calls when they leave here in a couple weeks. I’ll be looking forward to some of the other broods emerging over the next couple years in other states as it’ll be a nice excuse to explore some other areas.
+
