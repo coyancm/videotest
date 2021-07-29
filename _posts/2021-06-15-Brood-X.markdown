@@ -4,7 +4,7 @@ title:  "Brood X"
 subtitle: "Observing the 2021 cicada swarm."
 date:   2021-06-15 7:00:07 -0400
 categories: Brood X Cicadas 
-description: "Tkaing photos and recording the sounds of cicadas."
+description: "Taking photos and recording the sounds of cicadas."
 image: /images/blog/bugthumb.jpg
 ---
 

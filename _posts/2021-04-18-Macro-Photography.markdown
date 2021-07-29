@@ -21,7 +21,6 @@ grid-template-columns: repeat(auto-fill,minmax(220px,1fr));">
 		<figure>
 			<a href="/images/blog/snowflake2.jpg"><img src="/images/blog/snowflake2.jpg" alt="A close up image of a triangular snowflake taken by Wilson Bentley." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
 		</figure>
-				<figcaption style="text-align: center">A couple examples of Wilson Bentley's wonderful work.</figcaption>
 	</div>
 	<div class="column" style="box-sizing: border-box;">
 		<figure>
@@ -29,6 +28,8 @@ grid-template-columns: repeat(auto-fill,minmax(220px,1fr));">
 		</figure>
 	</div>
 </div>
+<figcaption style="text-align: center">A couple examples of Wilson Bentley's wonderful work.</figcaption>
+<br>
 Macro photography is something I've played around with for a while. I have access to a couple beautiful 1:1 macro lenses at my work and a couple adapters at home for some of my lenses. But, Snowflake Bentley got me wondering, "what can I do to step up my macro photo work?"
 
 My first thought was to look into microscope lenses and see how hard it is to attach one to a DSLR. Good quality microscopes are fairly affordable and the lenses are cheaper than those you typically find for cameras. Obviously a microscope lens would be much more zoomed in than a camera lens, but I'm interested in an extreme in this case. 

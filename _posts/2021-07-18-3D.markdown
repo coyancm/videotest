@@ -1,0 +1,59 @@
+---
+layout: blogpost
+title:  "3D"
+subtitle: "Learning the basics of Blender"
+date:   2021-07-18 7:00:07 -0400
+categories: Blender 3D 
+description: "Learning the basics of Blender and 3D modeling."
+image: /images/blog/3dthumb.jpg
+---
+Back when I was in high school I played a lot of The Elder Scrolls: Morrowind. This early early open world RPG was my first interest in 3D modeling. The game came with a construction set that allowed you to import models and set stats for weapons and dialogues/scripts for events. I started out by creating my own weapons by copying in-game models, changing the stats and placing them in the world so that my character could find them. This quickly peaked my curiosity in making my own models and a quick google search later I had found a free modeling program called Blender. 
+
+If you ever played with the versions of Blender that were available around 2007, you'll know it's user interface wasn't the friendliest for beginners. This combined with the lack of good online tutorials for visual learners (Youtube was only around 2 years old at the time and all the major Blender resources where forum posts) quickly scared me off from learning how it worked. 
+
+I didn't end up touching a 3D modeler again until college. I had the opportunity to take a beginners course on Maya taught by one of the artists from Diablo 2. The class was a lot of fun and taught me how to more confidently navigate through turning basic shapes into complex shapes, but my brain still didn't fully grasp how to make it look good. Unfortunately I don't have any surviving files from the class and all I'm left with is the memory of a poorly textured Portal scene that made early versions of Veggietales look like James Cameron's Avatar.
+
+Fast forward a couple years to early 2019. I'm bored at a computer going through the Adobe programs I'm not well versed in. Namely; Fuse and Dimensions. These two programs hadn't come up for any projects I had worked on and I figured I'd see what they were about. Dimensions was immediately interesting. It allowed me to make quick 3D renders with very little work/prep, but had several short comings: mostly that you had to rely on using other peoples models and you're limited with textures. Fuse was very neat on paper as it was set up to be an easy character maker/animator, however it's beta was clunky and Adobe ended up pulling it.
+
+Playing around with both of these had me wondering if Blender had improved or if there were any quality tutorials available that weren't just texted based. I immediately found what's considered the ultimate beginners Blender tutorial; <a href="https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLexwJr_iILK7IkuhEeAYeN7aLV5AAXKa-">Blender Guru's Donut series</a>.
+<br>
+<br>
+<a href="/images/blog/dagnet.jpg"><img src="/images/blog/dagnet.jpg" alt="A 3d render of a donut with pink icing next to a glass cup with coffee on a light pink background." style="display: block;margin-left: auto;margin-right: auto;width: 55%;border-radius: 8px;"></a>
+<figcaption style="text-align: center">Looks impressive, but if you follow the tutorial you can make the same thing!</figcaption>
+
+This incredible series of videos is a bit of a trek to get through, as it covers so much, but helps you understand all the important parts of Blender. In the end you're able to make an incredibly realistic donut and glass cup of coffee (with condensation). As someone who had trouble wrapping my brain around 3d modeling, this tutorial and the end results absolutely blew me away. If you have any interest in learning 3d modeling I highly recommend starting here.
+
+Since then I've been messing around with tutorials and exploring my own projects to see what I can make. For the most part I've been finding a nice zen while making liminal spaces as I explore the best ways to turn basic shapes into more complex designs. 
+<br>
+<br>
+<center>
+	<a href="/images/blog/mallV2.jpg"><img src="/images/blog/mallV2.jpg" alt="An atmospheric 3d render of a mall at night, lite only by the lights of a couple vending machines." style="width: 300px;border-radius: 8px;margin: 8px;"></a>
+	<a href="/images/blog/GasV2.jpg"><img src="/images/blog/GasV2.jpg" alt="A dark render of a gas station in the middle of nowhere at night." style="width: 300px;border-radius: 8px;margin: 8px;"></a>
+</center>
+<figcaption style="text-align: center">A couple recent renders with the liminal space vibe that I'd like to continue making.
+</figcaption>
+<br>
+Ultimately I'd like to move into more abstract and create scenes that provoce a feeling of unease due to a realistic look but with something off. I feel that I'm still a ways away from being able to start this goal as I want to make sure I have a solid foundation of modeling and texturing first; but until then, this has become an incredibly rewarding hobby to do in my free time. 
+<br>
+<br>
+<div class="row" style="display: grid;grid-gap: 10px;
+grid-template-columns: repeat(auto-fill,minmax(220px,1fr));">
+	<div class="column" style="box-sizing: border-box;">
+		<figure>
+			<a href="/images/blog/livingroom.jpg"><img src="/images/blog/livingroom.jpg" alt="A cozy isometric living room scene." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
+		</figure>
+	</div>
+	<div class="column" style="box-sizing: border-box;display: grid;">
+		<figure>
+			<a href="/images/blog/case_v3.jpg"><img src="/images/blog/case_v3.jpg" alt="A diarama of a windmill near a wheat field in a glass container." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
+		</figure>
+	</div>
+	<div class="column" style="box-sizing: border-box;">
+		<figure>
+			<a href="/images/blog/BlueRoomV2.jpg"><img src="/images/blog/BlueRoomV2.jpg" alt="An isometric view of a dental room." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
+		</figure>
+	</div>
+</div>
+<figcaption style="text-align: center">Some low poly rooms and designs I've been working on lately.</figcaption>
+
+
