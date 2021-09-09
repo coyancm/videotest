@@ -28,8 +28,17 @@ github_username:  coyancm
 
 # Build settings
 markdown:           kramdown
-paginate:           5
-paginate_path:      "/_posts/page:num/"
+
+
+pagination:
+  enabled: true
+  per_page: 9
+  sort_reverse: true
+  sort_field: 'date'
+  title: ':title'
+  trail:
+    before: 2
+    after: 2
 
 include: [_redirects.txt]
 
@@ -38,7 +47,7 @@ permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 
 netlify:

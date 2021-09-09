@@ -74,6 +74,18 @@
   margin-left: 5px;
 }
 
+.pagination {
+  padding-top: 50%;
+  padding-bottom: 30%;
+  font-size: 3em;
+}
+
+.blognums {
+  display: table;
+  margin: auto;
+}
+
+
 /* Commonts */
 
 .comments {

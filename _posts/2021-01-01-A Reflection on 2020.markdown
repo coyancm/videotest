@@ -62,6 +62,6 @@ Outside of hiking and work I was able to put a little bit of additional time tow
 2020 was a crazy year. It feels like I didn't have the opportunities to do nearly as much as I have in the past. But, looking back on all the projects (both work and personal) I'm pretty happy with what all I've accomplished with everything that's been going on. I hope that you've been able to make the best out of this last year. If you've been struggling, just remember that we all work at different paces and that it's ok. For some, the hardest part of the day is getting out of bed. Just focus on taking the tiny steps to move forward and feel free to celebrate each of those steps, even if it feels small.
 <br>
 <br>
-<a href="/images/blog/woods.jpg"><img src="/images/blog/kate_woods_2.jpg" alt="Kate leaning against a stump in the woods with dramatic lighting." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
+<a href="/images/blog/kate_woods_2.jpg"><img src="/images/blog/kate_woods_2.jpg" alt="Kate leaning against a stump in the woods with dramatic lighting." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
 <br>
 

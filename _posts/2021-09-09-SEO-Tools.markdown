@@ -1,0 +1,43 @@
+---
+layout: blogpost
+title:  "SEO Tools"
+subtitle: "A collection of free SEO tools from around the web"
+date:   2021-09-9 7:00:07 -0400
+categories: SEO 
+description: "A collection of free SEO tools from around the web."
+image: /images/blog/seo.jpg
+---
+I've found that keyword research, trend monitoring, and page optimization can be a bit cathartic under the right circumstances and wanted to share some of the tools I like to use. All of the listings below are free and I encourage you to check them out if you have any interests in SEO or just seeing how a website is put together in a meta sense. Hopefully you'll find some of these resources fun or helpful!
+
+<h2><a href="answerthepublic.com">Answer The Public</a></h2>
+Answer the public is a good starting point when trying to figure out what your audience is looking for. Simply input a topic, brand or a keyword to see what the most common questions are about your areas focus. This can be a great resource to figure out what information should be quickly and easily answered on your site.
+
+<h2><a href="https://trends.google.com/trends/?geo=US">Google Trends</a></h2>
+If you're looking to improve SEO on Google, why not pull data from the service itself? Trends allows you to compare keywords and topics over time in specified locations. This can be incredibly useful for finding how popular your ranking terms are and seeing when the highs/lows of user searches are.
+
+<h2><a href="https://ads.google.com/home/tools/keyword-planner/">Google Keyword Planner</a></h2>
+While this service is more geared towards Google Ads, Keyword Planner is a great way to see how strong the competition is on your keywords. Simply plug in your list of keyword, specify a location, and get a wide variety of information on your keywords and their search volume as well as ideas for similar keywords to use.
+
+<h2><a href="https://keywordshitter.com/">Keyword Shitter</a></h2>
+Although crass in name, keyword shitter does a very good job at, uh, shitting out keywords...
+Simply input some keywords you'd like to work with, add some positive or negative filters if you'd like to get fancy, press "start job" and let this site do the rest. I've had surprisingly quality results every time I use it and it always helps me find a couple phrases I hadn't thought of. Granted, you'll want to follow up on your favorite results by testing their demand/search interest to see how effective they are for your focus. But, overall, a surprisingly easy and effective tool for SEO/keyword research.
+
+<h2><a href="https://www.brightlocal.com/local-search-results-checker/">Brightlocal Search Checker</a></h2>
+Want to see how your SEO is ranking in another state/country but don't want to mess with a VPN? Brightlocal lets you see local organic and paid results in your area of choice. This is a great way to see how you and your competitors are ranking in different areas or finding areas with high demand for your focus, but with little supply.
+
+<h2><a href="https://mobilemoxie.com/tools/mobile-serp-test/">Mobile Moxie SERPerator</a></h2>
+Similiar to Brightlocal, Mobile Moxie allows you to see search engine result pages in different areas of the world. The big difference is MM also lets you test on different devices. This is important for seeing how yours or your competitors results can vary from mobile to desktop. 
+
+<h2><a href="https://moz.com/products/local/check-listing">MOZ Local Listing Checker</a></h2>
+Want to make sure your businesses information is consistent across the board? This handy site checks social medias, local resources, and business databases to let you know if and where there are inconsistencies in your online presence. 
+Bonus: this site will also let you know what common business databases you aren't on if you're looking to increase online visibility.
+
+<h2><a href="https://www.highervisibility.com/seo/tools/serp-snippet-optimizer/">Google SERP Snippet Optimization Tool</a></h2>
+A very simple tool that allows you to preview what your result text will look like on Google. Mostly good for making sure your text meets character/pixel requirements and isn't cut off.
+
+<h2><a href="https://ahrefs.com/backlink-checker">Backlink Checker</a></h2>
+Gives you your domain rating, number of backlinks (including percentage of dofollows), and some quality detailed information about your backlinks. Unfortunately the free version only gives you your top 100 links, but this site can be a great starting point to see where you're being linked from.
+
+<h2><a href="https://gtmetrix.com/">GTmetrix</a></h2>
+A solid page speed checker with a nice GUI and details on how you can increase your page speed. It piggybacks off Google Lighthouse so expect similar results as the inspect menu tool. The ability to test from a couple locations across the globe and some more detailed tabs make this, in my opinion, stand out a little more from the inspect menu though, which is why I use it on a regular basis.
+
