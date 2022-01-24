@@ -9,7 +9,7 @@ image: /images/blog/seo.jpg
 ---
 I've found that keyword research, trend monitoring, and page optimization can be a bit cathartic under the right circumstances and wanted to share some of the tools I like to use. All of the listings below are free and I encourage you to check them out if you have any interests in SEO or just seeing how a website is put together in a meta sense. Hopefully you'll find some of these resources fun or helpful!
 
-<h2><a href="answerthepublic.com">Answer The Public</a></h2>
+<h2><a href="https://answerthepublic.com">Answer The Public</a></h2>
 Answer the public is a good starting point when trying to figure out what your audience is looking for. Simply input a topic, brand or a keyword to see what the most common questions are about your areas focus. This can be a great resource to figure out what information should be quickly and easily answered on your site.
 
 <h2><a href="https://trends.google.com/trends/?geo=US">Google Trends</a></h2>
