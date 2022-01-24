@@ -18,8 +18,8 @@ If you're looking to improve SEO on Google, why not pull data from the service i
 <h2><a href="https://ads.google.com/home/tools/keyword-planner/">Google Keyword Planner</a></h2>
 While this service is more geared towards Google Ads, Keyword Planner is a great way to see how strong the competition is on your keywords. Simply plug in your list of keyword, specify a location, and get a wide variety of information on your keywords and their search volume as well as ideas for similar keywords to use.
 
-<h2><a href="https://keywordshitter.com/">Keyword Shitter</a></h2>
-Although crass in name, keyword shitter does a very good job at, uh, shitting out keywords...
+<h2><a href="https://keywordsheeter.com/">Keyword Sheeter</a></h2>
+Although crass in name, keyword sheeter does a very good job at, uh, sheeting out keywords...
 Simply input some keywords you'd like to work with, add some positive or negative filters if you'd like to get fancy, press "start job" and let this site do the rest. I've had surprisingly quality results every time I use it and it always helps me find a couple phrases I hadn't thought of. Granted, you'll want to follow up on your favorite results by testing their demand/search interest to see how effective they are for your focus. But, overall, a surprisingly easy and effective tool for SEO/keyword research.
 
 <h2><a href="https://www.brightlocal.com/local-search-results-checker/">Brightlocal Search Checker</a></h2>
