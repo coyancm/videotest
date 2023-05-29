@@ -1,0 +1,34 @@
+---
+layout: blogpost
+title:  "Job Boss"
+subtitle: "Creating a version of the show Taskmaster with friends"
+date:   2022-03-25 7:00:07 -0400
+categories: SEO 
+description: "Creating a version of the show Taskmaster with friends"
+image: /images/blog/jobboss.jpg
+---
+Back in September of 2021 3 friends (Michael, Anthony, and Cameron) proposed the idea of creating a version of the TV show Taskmaster, but with some of their other friends. And as part of a live event for a holiday party they were having in December 2021.
+
+This is the edited version of the live show which took place December 26th.
+
+All of this was done for fun and for free during our free times. We hope you enjoy it!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RZjMdaaLXLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;width: 80%;border-radius: 8px;"></iframe>
+
+Credits:
+<ul>
+<li>Inspired by Taskmaster: <a href="https://www.youtube.com/c/Taskmaster">https://www.youtube.com/c/Taskmaster</a></li>
+<li>Job Boss/Taskmaster, writer, creator, producer: Michael van Baalen <a href="http://www.mvanb.com">http://www.mvanb.com</a></li>
+<li>Co-Host, music, writer, creator: Anthony George <a href="https://sapporovhs.bandcamp.com/">https://sapporovhs.bandcamp.com/</a></li>
+<li>Director of photography, writer, creator, editor, key grip: Cameron Coyan</li>
+<li>Assistant DP, on set advisor, best boy grip: Kate Durr <a href="https://katedurr.com/">https://katedurr.com/</a></li>
+</ul>
+
+Guest Stars:
+<ul>
+<li>Allie Halloran</li>
+<li>Anthony Martino</li>
+<li>Ian George (<a href="https://www.instagram.com/hismajestyiang/">https://www.instagram.com/hismajestyiang/</a>)</li>
+<li>Lauren Schirtzinger (<a href="https://www.instagram.com/bestseenonfoot/">https://www.instagram.com/bestseenonfoot/</a>)</li>
+<li>Matt Miller</li>
+</ul>
